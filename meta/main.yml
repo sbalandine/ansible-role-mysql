@@ -1,11 +1,11 @@
 ---
+
 dependencies: []
 
 galaxy_info:
   role_name: mysql
   author: sbalandine
   description: MySQL server for RHEL/CentOS.
-  company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.4
   platforms:
